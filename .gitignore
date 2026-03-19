@@ -17,3 +17,10 @@ venv/
 *.mp4
 *.mp3
 *.log
+
+# 图片素材 (ALL images - 严禁推送版权素材/生成图片 )
+*.png
+*.jpg
+*.jpeg
+*.webp
+visual_assets/
