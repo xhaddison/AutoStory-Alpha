@@ -1,0 +1,19 @@
+node_modules/
+.DS_Store
+*.apk
+binaries/
+*.so
+*.so.cn
+*.dex
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Media
+*.mp4
+*.mp3
+*.log
